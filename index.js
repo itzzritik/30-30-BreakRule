@@ -1,6 +1,5 @@
 const notifier = require('node-notifier'),
 	notify = () => {
-		let payload = 
 		notifier.notify({
 			title: 'Eye Break',
 			message: 'Time to rest your eyes',
